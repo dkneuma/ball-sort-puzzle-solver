@@ -1,0 +1,19 @@
+{
+    "tubes": [
+        ["gray","lblu","yell","redd"],
+        ["lvio","lblu","dvio","gray"],
+        ["dblu","gren","lblu","yell"],
+		["brwn","gray","yell","brwn"],
+		["gren","gren","oran","gren"],
+		["redd","gray","blue","pink"],
+		["pink","yell","brwn","dblu"],
+		
+		["oran","blue","dvio","lblu"],
+		["oran","pink","oran","blue"],
+		["dblu","lvio","dvio","brwn"],
+		["lvio","redd","lvio","dvio"],
+		["pink","dblu","blue","redd"],
+        [],
+		[]
+    ]
+}
